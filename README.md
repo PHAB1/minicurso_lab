@@ -1,1 +1,1 @@
-# Minicurso de Bioinformática
+# Minicurso R - Criando Scripts e Manipulando Dados no Colab
